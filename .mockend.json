@@ -1,0 +1,11 @@
+{
+  "id" : {
+    "int" : []
+  }
+  "city" : {
+  "string" : []
+}
+"c_dt":{
+  "dateTime" :[]
+}
+}
