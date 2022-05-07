@@ -1,13 +1,13 @@
 [ 
   {
   "id" : {
-    "int" : []
+    "int" : {}
   }
   "city" : {
-  "string" : []
+  "string" : {}
 }
 "c_dt":{
-  "dateTime" :[]
+  "dateTime" :{}
 }
 }
 ]
